@@ -8,6 +8,11 @@
 
 - [ ] do anything else
 
+## areas of concern
+- minicraft.item.ToolItem : `getAttackDamageBonus`
+- minicraft.item.ToolItem : `payDurability`
+ - add a condition for if `!type == ToolType.ToolName`
+
 # Minicraft Plus Revived
 ![Minicraft+](https://user-images.githubusercontent.com/37084190/138313821-75ac3112-7044-45c1-bdbb-d89f2333c2c0.png)
 
