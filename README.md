@@ -1,8 +1,13 @@
 # todo list for making tool
-[ ] make a new entry in minicraft.item.ToolType that has no level `ToolName (xPos, dur, true)`
-[ ] make a sprite for it on y13 next to the shear sprite if it's the only unleveled tool
-[ ] the functionality of the new tool should be nigh identical to the Sword but with greater stats
-[ ] do anything else
+
+- [ ] make a new entry in minicraft.item.ToolType that has no level `ToolName (xPos, dur, true)`
+
+- [ ] make a sprite for it on y13 next to the shear sprite if it's the only unleveled tool
+
+- [ ] the functionality of the new tool should be nigh identical to the Sword but with greater stats
+
+- [ ] do anything else
+
 # Minicraft Plus Revived
 ![Minicraft+](https://user-images.githubusercontent.com/37084190/138313821-75ac3112-7044-45c1-bdbb-d89f2333c2c0.png)
 
